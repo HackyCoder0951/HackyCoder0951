@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+
+
 - 👋 Hi, I’m @HackyCoder0951
 - 👀 I’m interested in AI,ML,DL,NLP,Hacking,IoT,System Development.
 - 🌱 I’m currently learning Programming,Scientific Computing,Networking,Hacking.
