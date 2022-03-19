@@ -76,7 +76,7 @@
 
 
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=HackyCoder0951)]</p>
+<p align="center">[![trophy](https://github-profile-trophy.vercel.app/?username=HackyCoder0951)](https://github.com/ryo-ma/github-profile-trophy)</p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HackyCoder0951}/count.svg" /></p> 
 <br><p align="center">
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
