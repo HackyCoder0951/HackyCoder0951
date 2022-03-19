@@ -75,15 +75,42 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HackyCoder0951)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center" dir="auto">
+ </p><h2 align="center" dir="auto"><a id="user-content-my-github-stats" class="anchor" aria-hidden="true" href="#my-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>My Github Stats</h2>
+<table>
+<thead>
+<tr>
+<th>My github statistics</th>
+<th>My languages</th>
+<th>Streaks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/HackyCoder0951"><img src="https://camo.githubusercontent.com/e629ff30df939de7b5ffa01f68f5fefb16e820cad74ac134661915a6a682fe9b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d43796562756b61796972652673686f775f69636f6e733d74727565267468656d653d6461726b26686964655f7469746c653d74727565" alt="Hacky's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=HackyCoder0951&amp;show_icons=true&amp;theme=dark&amp;hide_title=true" style="max-width: 100%;"></a></td>
+<td><a href="https://github.com/HackyCoder0951"><img src="https://camo.githubusercontent.com/342812e42e4f14b5d2d76af4eedc7ad8519722b6b28a497b0f34c5e9431a4afb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d43796562756b61796972652673686f775f69636f6e733d74727565267468656d653d6461726b266c61796f75743d636f6d7061637426686964655f7469746c653d74727565" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackyCoder0951&amp;show_icons=true&amp;theme=dark&amp;layout=compact&amp;hide_title=true" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e07f25ae56b56bdaafa163fd0627d3cc2c7e1d7c8f7c190ecf57006bdfabc89c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d43796562756b6179697265267468656d653d6461726b"><img src="https://camo.githubusercontent.com/e07f25ae56b56bdaafa163fd0627d3cc2c7e1d7c8f7c190ecf57006bdfabc89c/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d43796562756b6179697265267468656d653d6461726b" alt="HackyCoder0951" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&amp;theme=dark" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table>
+
 <br><p align="centre"><b>Visitors Count</b></p>  
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HackyCoder0951}/count.svg" /></p> 
 <br><p align="center">
-<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+<img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+    <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+    <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
-<br>👋 Have the Best Day you can 🌈<br>
-<p align="left">https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif</p>
-<p align="right">https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif</p>
-<p>https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572</p>
+<br>👋 Have the Best Day you can 🌈<br><br>
+
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif"><img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width="400" height="340" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif"><img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height="340/" style="max-width: 100%;"></a>
+</p>
+  <p dir="auto"></p>
+  <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"><img width="100%" src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" style="max-width: 100%;"></a></p>
 <!---
 HackyCoder0951/HackyCoder0951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
