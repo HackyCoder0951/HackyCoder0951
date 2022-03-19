@@ -81,6 +81,9 @@
 <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
 </p>
 <br>👋 Have the Best Day you can 🌈<br>
+<p align="left">https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif</p>
+<p align="right">https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif</p>
+<p>https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572</p>
 <!---
 HackyCoder0951/HackyCoder0951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
