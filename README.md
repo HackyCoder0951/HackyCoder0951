@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Jignesh Ameta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Hacky Coder <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 
