@@ -1,8 +1,8 @@
-<h1 align="center">Hey there, I'm Hacky Coder <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+Hey there, I'm Hacky Coder <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=00b867&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator/Writer;Tech-savvy+person+from+India)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+![coding-freak](https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/coding-freak.gif)
 
 - 👋 Hi, I’m @HackyCoder0951
 - 👀 I’m interested in AI,ML,DL,NLP,Hacking,IoT,System Development.
@@ -73,7 +73,7 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-### <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji> Github Profile Trophy
+### 🏆 Github Profile Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HackyCoder0951&theme=matrix&row=1&column=6)
 
