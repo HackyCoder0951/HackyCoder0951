@@ -93,15 +93,15 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/HackyCoder0951"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
                 </a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/HackyCoder0951"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact" alt="Hacky's Wakatimes" style="max-width: 100%;">
                 </a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github.com/HackyCoder0951"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HackyCoder0951&theme=hacker" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark" alt="Hacky's Wakatimes" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
