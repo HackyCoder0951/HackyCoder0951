@@ -76,12 +76,13 @@
     <img alt="Matlab" src="https://img.shields.io/badge/Matlab%20-%23E34F26.svg?logo=mega&logoColor=white">
 </p>
 
-<p align="center"> 🏆 Github Profile Trophy </p>
+<p align="center" style="font-size:25px;"><b> 🏆 Github Profile Trophy<b> </p>
 <hr>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HackyCoder0951&theme=matrix&row=1&column=6">
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HackyCoder0951&theme=matrix&row=1&column=6)
-
-<h2 align="center" dir="auto">My Github Stats</h2>
+<h2 align="center"><b>My Github Stats<b></h2>
 <table>
     <thead>
         <tr>
