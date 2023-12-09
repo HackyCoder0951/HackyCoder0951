@@ -6,8 +6,8 @@
 <p><img src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/coding-freak.gif" alt="coding-freak" align="right" width="200" height="200"/></p>
 
 - 👋 Hi, I’m @HackyCoder0951
-- 👀 I’m interested in AI,ML,DL,NLP,Hacking,IoT,System Development.
-- 🌱 I’m currently learning Programming Langauges, Scientific Computing, Networking, Hacking.
+- 👀 I’m interested in Windows System Troubleshooting, Hacking,IoT,System Administration(Windows 7-8-10+Server,Linux OS,MAC OS).
+- 🌱 I’m currently learning Programming Langauges, System Administration, Networking, Hacking.
 - ⚡ Fun fact: Computers fascinate me more than humans !
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail - jignesh.vision.17@gmail.com
@@ -17,7 +17,22 @@
 [linkedin]: https://www.linkedin.com/in/jignesh-ameta-621772134
 
 <b><h2 style="font-size:25px"> 🛠️ My favorite tools </h2><b>
-
+<hr>
+<p>
+    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white">
+    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
+    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31.svg?logo=obs-studio&logoColor=white">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16.svg?logo=stack-overflow&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+    <img alt="Matlab" src="https://img.shields.io/badge/Matlab%20-%23E34F26.svg?logo=mega&logoColor=white">
+</p>
+<hr>
 <h2> 👨‍💻 Programming languages</h2>
 <hr>
 <p>
@@ -48,7 +63,7 @@
     <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B.svg?logo=wordpress&logoColor=white">
     <img alt="CodeIgniter" src="https://img.shields.io/badge/Codeigniter-EF4223.svg?logo=codeigniter&logoColor=white">
 </p>
-
+<hr>
 <h2> 🗄️ Databases and cloud hosting<h2>
 <hr>
 <p>
@@ -58,30 +73,13 @@
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Repl-dot-it&logoColor=white">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
 </p>
-
-<h2> 💻 Software and tools<h2>
 <hr>
-<p>
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
-    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
-    <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?logo=android&logoColor=white">
-    <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
-    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31.svg?logo=obs-studio&logoColor=white">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16.svg?logo=stack-overflow&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    <img alt="Matlab" src="https://img.shields.io/badge/Matlab%20-%23E34F26.svg?logo=mega&logoColor=white">
-</p>
-
 <p align="center" style="font-size:25px;"><b> 🏆 Github Profile Trophy<b> </p>
 <hr>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HackyCoder0951&theme=matrix&row=1&column=6">
 </p>
-
+<hr>
 <h2 align="center"><b>My Github Stats<b></h2>
 <table>
     <thead>
