@@ -1,7 +1,7 @@
 <p align="center" style="font-size: 25px; font-family:Leckerli;"><b>Hey there, I'm Hacky Coder<b> <img src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/giphy.gif" width="20"></p>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=65&pause=1000&color=007944&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Creator%2FWriter;Tech+Savvy+Person+From+India)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=65&pause=1000&color=007944&center=true&vCenter=true&width=900&height=110&lines=Passionate+Tech+Guy;Technician+Programmer;Content+Creator%2FWriter;Tech+Savvy+Person+From+India)
 
 <p><img src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/coding-freak.gif" alt="coding-freak" align="right" width="200" height="200"/></p>
 
