@@ -3,8 +3,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Leckerli+One&size=65&pause=1000&color=007944&center=true&vCenter=true&width=900&height=110&lines=Passionate+Tech+Guy;Technician+Programmer;Content+Creator%2FWriter;Tech+Savvy+Person+From+India)
 
-<p><img src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/coding-freak.gif" alt="coding-freak" align="right" width="200" height="200"/></p>
-
 - 👋 Hi, I’m @HackyCoder0951
 - 👀 I’m interested in Windows System Troubleshooting, Hacking,IoT,System Administration(Windows 7-8-10+Server,Linux OS,MAC OS).
 - 🌱 I’m currently learning Programming Langauges, System Administration, Networking, Hacking.
@@ -111,23 +109,10 @@
     <b style="font-size:25px">Visitors Count</b><br><br>
     <img align="center" src="https://profile-counter.glitch.me/{HackyCoder0951}/count.svg"/>
 </p> 
-<br><hr><br>
-<p align="center">
-    <img align="" height='120px' src="https://github.com/HackyCoder0951/HackyCoder0951/blob/583921b957b28d87c3998355766878b9fcd8fcc8/Geometric_White.gif?raw=true"/>
-    <img align="" height='120px' src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/583921b957b28d87c3998355766878b9fcd8fcc8/matrix.svg"/>
-    <img align="" height='120px' src="https://github.com/HackyCoder0951/HackyCoder0951/blob/583921b957b28d87c3998355766878b9fcd8fcc8/Geometric_White.gif?raw=true"/>
-</p><br>
-
+<br><hr>
 <p style="font-size:25px">👋 Have the Best Day you can 🌈</p>
 <hr>
 <br>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/me.gif"><img src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/me.gif" width="400" height="340" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/new.gif"><img src="https://raw.githubusercontent.com/HackyCoder0951/HackyCoder0951/main/new.gif" height="340/" style="max-width: 100%;"></a>
-</p>
- <p>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer"  style="max-width: 100%;"></a>
-</p>
 <!---
 HackyCoder0951/HackyCoder0951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
