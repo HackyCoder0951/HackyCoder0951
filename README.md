@@ -112,5 +112,5 @@ HackyCoder0951/HackyCoder0951 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"  ><img src="https://github-readme-stats-dply.vercel.app/api?username=HackyCoder0951&show_icons=true&locale=en&theme=dark" alt="HackyCoder0951" /></p>
+<p align="center"  ><img src="https://github-readme-stats-dply.vercel.app/api?username=hackycoder0951&show_icons=true&theme=merko" alt="HackyCoder0951" /></p>
 <!--<figure><img src="https://wakatime.com/share/@hackycoder0951/32383b2b-8709-4798-b211-fc6a875579b5.svg" height="150px" ></figure>-->
