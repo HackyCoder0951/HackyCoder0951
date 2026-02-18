@@ -16,7 +16,7 @@
 <hr>
 <p align="center"  ><img src="https://github-readme-stats-dply.vercel.app/api?username=hackycoder0951&show_icons=true&theme=merko" alt="HackyCoder0951" /></p>
 <hr>
-<p align="center" style="font-size:25px;"><b> 🏆 Github Profile Trophy<b> </p>
+<h2  align="center"><b> 🏆 Github Profile Trophy<b> </h2>
 <hr>
 <p align="center">
 <img src="https://github-profile-repo.vercel.app/?username=HackyCoder0951&theme=matrix&row=1&column=9">
