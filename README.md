@@ -90,7 +90,7 @@
     <tbody>
         <tr>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&langs_count=16&theme=dark&layout=compact&hide_title=false"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&langs_count=16&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
                 </a>
             </td>
             <td>
@@ -98,7 +98,7 @@
                 </a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&langs_count=18&theme=dark"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&langs_count=18&theme=dark" alt="Hacky's Wakatimes" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
