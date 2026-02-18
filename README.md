@@ -90,7 +90,7 @@
     <tbody>
         <tr>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
                 </a>
             </td>
             <td>
@@ -98,25 +98,19 @@
                 </a>
             </td>
             <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&theme=dark" alt="Hacky's Wakatimes" style="max-width: 100%;">
                 </a>
             </td>
         </tr>
     </tbody>
 </table>
 <hr>
-<p align="center">
-    <b style="font-size:25px">Visitors Count</b><br><br>
-    <img align="center" src="https://profile-counter.glitch.me/{HackyCoder0951}/count.svg"/>
-</p> 
-<br><hr>
-<p style="font-size:25px">👋 Have the Best Day you can 🌈</p>
-<hr>
+
 <br>
 <!---
 HackyCoder0951/HackyCoder0951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="center"  ><img src="https://github-readme-stats.vercel.app/api?username=HackyCoder0951&show_icons=true&locale=en&theme=dark" alt="HackyCoder0951" /></p>
+<p align="center"  ><img src="https://github-readme-stats-dply.vercel.app/api?username=HackyCoder0951&show_icons=true&locale=en&theme=dark" alt="HackyCoder0951" /></p>
 <!--<figure><img src="https://wakatime.com/share/@hackycoder0951/32383b2b-8709-4798-b211-fc6a875579b5.svg" height="150px" ></figure>-->
