@@ -13,7 +13,42 @@
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 [linkedin]: https://www.linkedin.com/in/jignesh-ameta-621772134
-
+<hr>
+<p align="center"  ><img src="https://github-readme-stats-dply.vercel.app/api?username=hackycoder0951&show_icons=true&theme=merko" alt="HackyCoder0951" /></p>
+<hr>
+<p align="center" style="font-size:25px;"><b> 🏆 Github Profile Trophy<b> </p>
+<hr>
+<p align="center">
+<img src="https://github-profile-repo.vercel.app/?username=HackyCoder0951&theme=matrix&row=3&column=3">
+</p>
+<hr>
+<h2 align="center"><b>My Github Stats<b></h2>
+<table>
+    <thead>
+        <tr>
+            <th>Hacky's Languages</th>
+            <th>Hacky's Streakes</th>
+            <th>Hacky's Wakatimes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&langs_count=16&theme=merko&layout=compact&hide_title=false"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&langs_count=16&theme=merko&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                </a>
+            </td>
+            <td>
+                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&langs_count=18&theme=merko"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&langs_count=18&theme=merko" alt="Hacky's Wakatimes" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<hr>
 <b><h2 style="font-size:25px"> 🛠️ My favorite tools </h2><b>
 <hr>
 <p>
@@ -71,46 +106,12 @@
     <img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Repl-dot-it&logoColor=white">
     <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white">
 </p>
-<hr>
-<p align="center" style="font-size:25px;"><b> 🏆 Github Profile Trophy<b> </p>
-<hr>
-<p align="center">
-<img src="https://github-profile-repo.vercel.app/?username=HackyCoder0951&theme=matrix&row=3&column=3">
-</p>
-<hr>
-<h2 align="center"><b>My Github Stats<b></h2>
-<table>
-    <thead>
-        <tr>
-            <th>Hacky's Languages</th>
-            <th>Hacky's Streakes</th>
-            <th>Hacky's Wakatimes</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&langs_count=16&theme=dark&layout=compact&hide_title=false"><img src="https://github-readme-stats-dply.vercel.app/api/top-langs/?username=HackyCoder0951&langs_count=16&theme=dark&layout=compact&hide_title=false" alt="Hacky's Top Languages" style="max-width: 100%;">
-                </a>
-            </td>
-            <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HackyCoder0951&theme=hacker&hide_title=false&layout=compact" alt="Hacky's Wakatimes" style="max-width: 100%;">
-                </a>
-            </td>
-            <td>
-                <a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&langs_count=18&theme=dark"><img src="https://github-readme-stats-dply.vercel.app/api/wakatime?username=HackyCoder0951&langs_count=18&theme=dark" alt="Hacky's Wakatimes" style="max-width: 100%;">
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<hr>
-
-<br>
 <!---
 HackyCoder0951/HackyCoder0951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-<p align="center"  ><img src="https://github-readme-stats-dply.vercel.app/api?username=hackycoder0951&show_icons=true&theme=merko" alt="HackyCoder0951" /></p>
-<!--<figure><img src="https://wakatime.com/share/@hackycoder0951/32383b2b-8709-4798-b211-fc6a875579b5.svg" height="150px" ></figure>-->
+<hr>
+    <h2 align="center"><b>My Wakatime Stats<b></h2>
+<p align="center">
+    <img src="https://wakatime.com/share/@hackycoder0951/8fc64814-945e-43f8-86c5-8b018443c7c2.svg" height="650px">
+</p>-->
+<hr>
